@@ -27,6 +27,7 @@ import com.example.demo.domain.service.AlunoService;
 @RestController
 @RequestMapping("/alunos")
 public class AlunoController {
+	/*test*/
 	@Autowired
 	private AlunoService alunoService;
 	@Autowired
